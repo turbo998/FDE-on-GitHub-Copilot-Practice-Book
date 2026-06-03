@@ -69,7 +69,7 @@ fde-book 的公式 `Outcome = Harness × Customer` 里的 **Harness**，和 work
 
 ## 怎么读
 
-- **赶时间**：先读 [映射表](appendix/appendix-a-mapping.md)——一页看清 FDE 方法论的每个判断对应 Copilot 上哪个工件。
+- **赶时间**：先读 [映射表](appendix/appendix-a-mapping/)——一页看清 FDE 方法论的每个判断对应 Copilot 上哪个工件。
 - **带项目读**：每章末尾有「落到 Copilot 上」一节，给可直接 `@mention` / 拷进 `.github/` 的工件。
 - **当工具书**：查附录 B（Copilot Harness 速查）、附录 C（第一周启动包）。
 

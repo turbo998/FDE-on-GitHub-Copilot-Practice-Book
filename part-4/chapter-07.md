@@ -1,3 +1,9 @@
+---
+title: "第 7 章 Tool / MCP / Skill"
+parent: "Part IV — 多 Agent 协作"
+nav_order: 2
+---
+
 # Chapter 7: Tool / MCP / Skill — 给 Agent 加能力的三种形态
 
 这是合作伙伴群里最高频的问题之一："我想给 Copilot/Agent 加个能力，到底用 Tool、MCP 还是 Skill？" fde-book 第六部分（Ch16）给了清晰的判断框架，本书把它焊到 Copilot 语境。
@@ -90,4 +96,4 @@ fde-book 和工程直觉一致的警告：**Skill 不是银弹。** 一个每次
 
 ---
 
-[← 上一章：handoff→SDD](chapter-06.md) · [下一章：PoC 到生产 →](../part-5/chapter-08.md)
+[← 上一章：handoff→SDD](chapter-06/) · [下一章：PoC 到生产 →](../part-5/chapter-08/)

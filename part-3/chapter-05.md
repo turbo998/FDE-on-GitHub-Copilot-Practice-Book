@@ -1,3 +1,9 @@
+---
+title: "第 5 章 Rule/Role/Workflow 三层"
+parent: "Part III — Harness 工程化"
+nav_order: 1
+---
+
 # Chapter 5: Rule / Role / Workflow 三层 — 把铁律固化成 Copilot 工件
 
 这一章是工程 Harness 的核心施工图。前面几章反复说"落到工件上"，这一章把那个"工件系统"完整搭起来。
@@ -128,4 +134,4 @@ workshop 企业最佳实践里最该划重点的一条，也是 FDE 交接的命
 
 ---
 
-[← 上一章：先 Eval 再开发](../part-2/chapter-04.md) · [下一章：多 Agent 协作 →](../part-4/chapter-06.md)
+[← 上一章：先 Eval 再开发](../part-2/chapter-04/) · [下一章：多 Agent 协作 →](../part-4/chapter-06/)

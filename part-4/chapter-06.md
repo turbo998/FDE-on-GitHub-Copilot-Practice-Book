@@ -1,3 +1,9 @@
+---
+title: "第 6 章 handoff → Spec-Kit"
+parent: "Part IV — 多 Agent 协作"
+nav_order: 1
+---
+
 # Chapter 6: 手作 handoff → Spec-Kit 工业化 SDD
 
 ## 6.1 多 Agent 协作的两个段位
@@ -84,4 +90,4 @@ fde-book 的 Agent 章（Ch14）基于 **AWS AgentCore + CDK**。本书的多 ag
 
 ---
 
-[← 上一章：三层 harness](../part-3/chapter-05.md) · [下一章：Tool/MCP/Skill →](chapter-07.md)
+[← 上一章：三层 harness](../part-3/chapter-05/) · [下一章：Tool/MCP/Skill →](chapter-07/)

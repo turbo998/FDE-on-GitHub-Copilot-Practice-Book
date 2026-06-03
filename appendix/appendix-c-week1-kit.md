@@ -1,3 +1,9 @@
+---
+title: "附录 C 第一周启动包"
+parent: "附录"
+nav_order: 3
+---
+
 # 附录 C: 第一周客户启动包
 
 新接一个 Copilot/Azure 落地项目，第一周照这个清单走。这是 fde-book "第一周模板" + workshop 企业最佳实践的焊接版。
@@ -63,4 +69,4 @@
 
 ---
 
-[← 附录 B](appendix-b-harness-cheatsheet.md) · [附录 D：对比矩阵 →](appendix-d-comparison.md)
+[← 附录 B](appendix-b-harness-cheatsheet/) · [附录 D：对比矩阵 →](appendix-d-comparison/)

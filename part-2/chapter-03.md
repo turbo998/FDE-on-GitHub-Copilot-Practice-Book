@@ -1,3 +1,9 @@
+---
+title: "第 3 章 第一周"
+parent: "Part II — 客户发现与 Eval"
+nav_order: 1
+---
+
 # Chapter 3: 第一周 — 从需求到评估集到 SOW
 
 ## 3.1 第一周的形状：观察 > 提问
@@ -80,4 +86,4 @@ fde-book 把第一周的产出串成一条链：
 
 ---
 
-[← 上一章：三条铁律](../part-1/chapter-02.md) · [下一章：先 Eval 再开发 →](chapter-04.md)
+[← 上一章：三条铁律](../part-1/chapter-02/) · [下一章：先 Eval 再开发 →](chapter-04/)

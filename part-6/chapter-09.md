@@ -1,3 +1,9 @@
+---
+title: "第 9 章 交接与精进"
+parent: "Part VI — 交接与精进"
+nav_order: 1
+---
+
 # Chapter 9: Handoff、模式提取、FDE 的 T 字成长
 
 ## 9.1 交接不是丢代码，是交判断
@@ -90,4 +96,4 @@ fde-book 收尾讲 FDE 的成长形状是 **T 字**：
 
 ---
 
-[← 上一章：PoC 到生产](../part-5/chapter-08.md) · [附录 A：概念映射表 →](../appendix/appendix-a-mapping.md)
+[← 上一章：PoC 到生产](../part-5/chapter-08/) · [附录 A：概念映射表 →](../appendix/appendix-a-mapping/)

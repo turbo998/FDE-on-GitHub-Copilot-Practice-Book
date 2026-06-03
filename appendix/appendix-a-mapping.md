@@ -1,3 +1,9 @@
+---
+title: "附录 A 概念映射表"
+parent: "附录"
+nav_order: 1
+---
+
 # 附录 A: 概念映射表 — FDE 方法论 ↔ Copilot 工件
 
 这是全书的中枢索引。一页看清：fde-book 的每个方法论判断，对应 Copilot 工程 Harness 上哪个具体工件。
@@ -62,4 +68,4 @@
 
 ---
 
-[← Ch9](../part-6/chapter-09.md) · [附录 B：Harness 速查 →](appendix-b-harness-cheatsheet.md)
+[← Ch9](../part-6/chapter-09/) · [附录 B：Harness 速查 →](appendix-b-harness-cheatsheet/)

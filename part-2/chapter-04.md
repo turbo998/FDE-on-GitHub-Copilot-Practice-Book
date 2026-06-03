@@ -1,3 +1,9 @@
+---
+title: "第 4 章 先 Eval 再开发"
+parent: "Part II — 客户发现与 Eval"
+nav_order: 2
+---
+
 # Chapter 4: 先 Eval 再开发 — 用 Copilot 把评估变成肌肉记忆
 
 ## 4.1 没评估 vs 有评估，差的是什么
@@ -108,4 +114,4 @@ description: 写测试并执行 eval-driven 评估对比
 
 ---
 
-[← 上一章：第一周](chapter-03.md) · [下一章：Rule/Role/Workflow 三层 →](../part-3/chapter-05.md)
+[← 上一章：第一周](chapter-03/) · [下一章：Rule/Role/Workflow 三层 →](../part-3/chapter-05/)

@@ -1,0 +1,60 @@
+title: "FDE on GitHub Copilot · Practice Book"
+description: "微软生态下的前置部署工程实践 — Outcome = Harness × Customer"
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://turbo998.github.io"
+baseurl: "/FDE-on-GitHub-Copilot-Practice-Book"
+
+permalink: pretty
+
+# Just-the-Docs settings
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/，。、；：（）()]+/
+  rel_url: true
+  button: true
+
+color_scheme: copilot
+
+heading_anchors: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/turbo998/FDE-on-GitHub-Copilot-Practice-Book"
+aux_links_new_tab: true
+
+footer_content: 'Source on <a href="https://github.com/turbo998/FDE-on-GitHub-Copilot-Practice-Book">GitHub</a>. 焊接自 <a href="https://github.com/dawei008/fde-book">fde-book</a> × <a href="https://github.com/turbo998/Harness-Engineering-in-GithHub-Copilot-Workshop">Copilot Workshop</a>. CC-BY-SA 4.0.'
+
+# Files Jekyll should NOT process
+exclude:
+  - SUMMARY.md
+  - LICENSE.md
+  - .gitignore
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+collections_dir: ""

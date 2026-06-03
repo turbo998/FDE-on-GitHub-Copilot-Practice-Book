@@ -1,3 +1,9 @@
+---
+title: "第 1 章 FDE 与两层 Harness"
+parent: "Part I — 角色与铁律"
+nav_order: 1
+---
+
 # Chapter 1: FDE 是什么 + 两层 Harness
 
 ## 1.1 FDE 不是"前线售前 + 后方研发"
@@ -109,4 +115,4 @@ FDE 项目通常走四个阶段，每个阶段两层 Harness 的重心不同：
 
 ---
 
-[下一章：三条铁律 →](chapter-02.md)
+[下一章：三条铁律 →](chapter-02/)

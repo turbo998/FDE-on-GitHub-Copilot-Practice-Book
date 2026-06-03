@@ -1,3 +1,9 @@
+---
+title: "附录 B Harness 速查"
+parent: "附录"
+nav_order: 2
+---
+
 # 附录 B: Copilot Harness 速查表
 
 可直接拷进客户项目的 `.github/` 工件骨架。删改成客户实际约束后即用。
@@ -91,4 +97,4 @@
 
 ---
 
-[← 附录 A](appendix-a-mapping.md) · [附录 C：第一周启动包 →](appendix-c-week1-kit.md)
+[← 附录 A](appendix-a-mapping/) · [附录 C：第一周启动包 →](appendix-c-week1-kit/)

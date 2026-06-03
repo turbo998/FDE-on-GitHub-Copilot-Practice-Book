@@ -1,0 +1,80 @@
+// Copilot color scheme — GitHub dark-ish accents on clean light background.
+// Blue/teal primary (Copilot/GitHub) + charcoal text + soft gray panels.
+
+$body-background-color: #ffffff;
+$sidebar-color:         #f6f8fa;   // GitHub canvas-subtle
+$base-button-color:     #f6f8fa;
+$body-text-color:       #1f2328;   // GitHub fg-default
+$body-heading-color:    #1f2328;
+$body-blockquote-color: #57606a;
+$nav-child-link-color:  #57606a;
+
+// Primary brand: GitHub/Copilot blue
+$link-color:                    #0969da;
+$btn-primary-color:             #0969da;
+$body-link-color:               #0969da;
+$nav-list-link-color:           #1f2328;
+$nav-list-expander-color:       #0969da;
+
+$nav-list-item-height:           1.6rem;
+
+$border-color:        #d0d7de;
+$table-background-color: #ffffff;
+
+$code-background-color: #f6f8fa;
+$code-linenumber-color: #8c959f;
+
+$search-result-preview-color: #57606a;
+
+@mixin _ob-after-vars {
+  // Sidebar active item: blue background
+  .site-nav .nav-list .nav-list-item .nav-list-link.active {
+    background-color: rgba(9, 105, 218, 0.10);
+    border-left: 3px solid #0969da;
+    padding-left: calc(0.75rem - 3px);
+  }
+
+  .site-button:hover {
+    color: #0969da;
+  }
+
+  // Headings — teal subhead accent for h2 underline
+  h2 {
+    border-bottom: 1px solid rgba(31, 35, 40, 0.12);
+    padding-bottom: 0.2rem;
+  }
+
+  blockquote {
+    border-left: 4px solid #0969da;
+    background: rgba(9, 105, 218, 0.04);
+    padding: 0.6rem 1rem;
+  }
+
+  .btn-primary {
+    background-image: none;
+    background-color: #0969da;
+    color: #ffffff;
+  }
+  .btn-primary:hover {
+    background-color: #0860c4;
+  }
+
+  h1.fs-9 {
+    color: #1f2328;
+    letter-spacing: -0.01em;
+  }
+
+  // Inline code — blue on subtle
+  code.language-plaintext.highlighter-rouge,
+  code:not(.language-plaintext) {
+    color: #0969da;
+    background: rgba(9, 105, 218, 0.06);
+  }
+
+  thead th {
+    background: #f6f8fa;
+    color: #1f2328;
+  }
+}
+
+@include _ob-after-vars;
