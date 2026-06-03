@@ -11,6 +11,10 @@ permalink: /
 微软生态下的前置部署工程实践 — 把 FDE 方法论焊到 GitHub Copilot Harness 工程上。
 {: .fs-6 .fw-300 }
 
+<p align="center">
+  <img src="{{ '/assets/images/cover.png' | relative_url }}" alt="FDE on GitHub Copilot · 实践之书 封面 — 超级机器人大战风格群像" width="420" style="max-width:100%;border-radius:12px;box-shadow:0 8px 32px rgba(9,105,218,0.35);margin:1.5rem auto;">
+</p>
+
 [开始阅读](preface){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [概念映射表](appendix/appendix-a-mapping){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub 仓库](https://github.com/turbo998/FDE-on-GitHub-Copilot-Practice-Book){: .btn .fs-5 .mb-4 .mb-md-0 }
